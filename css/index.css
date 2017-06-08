@@ -1,0 +1,93 @@
+
+body{
+    background-color: rgb(149,142,142);
+}
+
+.image1 img{
+  margin-top: 100px;
+  width: 450px;
+  height: 170px;
+  position: absolute;
+}
+.image2 img{
+  margin-top: 100px;
+  margin-left: 835px;
+  width: 450px;
+  height: 170px;
+  position: absolute;
+}
+.image3 img{
+  margin-top: 500px;
+  margin-left: 950px;
+  width: 350px;
+  height: 170px;
+  position: absolute;
+}
+
+.image4 img{
+  margin-top: 400px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+}
+.bio img{
+      width: 10%;
+      border-radius: 50%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      -webkit-transition: width 2s, height 4s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s, height 4s;
+}
+.bio img:hover{
+  width: 15%;
+}
+h1{
+  color: rgb(255,255,255);
+  text-align: center;
+}
+h3{
+  color: rgb(9,9,9);
+  text-align: center;
+}
+.aboutme{
+  width: 40%;
+  margin: auto;
+}
+.aboutme p{
+  color: rgb(255,255,255);
+  text-align: center;
+}
+p{
+  color: rgb(255,255,255);
+  text-align: center;
+}
+li {
+  color: #fffefe;
+}
+.id{
+  color: rgb(255,250,250);
+  text-align: center;
+}
+i{
+  color: rgb(0,0,0);
+}
+h4{
+  color: rgb(255,250,250);
+  text-align: center;
+}
+.pdf {
+  width: 4%;
+  margin: auto;
+}
+.pdf img{
+  width: 100%;
+}
+.internet {
+  text-align: center;
+  color: rgb(4,41,176)
+}
+q {
+  color: white;
+  margin-left: 600px;
+}
